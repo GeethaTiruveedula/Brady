@@ -1,0 +1,14 @@
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\bin\Debug\BradyETRM.exe.config
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\bin\Debug\BradyETRM.exe
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\bin\Debug\BradyETRM.pdb
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\obj\Debug\BradyETRM.csproj.AssemblyReference.cache
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\obj\Debug\BradyETRM.csproj.CoreCompileInputs.cache
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\obj\Debug\BradyETRM.exe
+C:\Users\Gtiruveedula\Downloads\Personal\Brady\Code\BradyETRM\BradyETRM\obj\Debug\BradyETRM.pdb
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\bin\Debug\BradyETRM.exe.config
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\bin\Debug\BradyETRM.exe
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\bin\Debug\BradyETRM.pdb
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\obj\Debug\BradyETRM.csproj.AssemblyReference.cache
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\obj\Debug\BradyETRM.csproj.CoreCompileInputs.cache
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\obj\Debug\BradyETRM.exe
+C:\Users\Gtiruveedula\Downloads\Personal\Brady Github\BradyETRM\obj\Debug\BradyETRM.pdb
